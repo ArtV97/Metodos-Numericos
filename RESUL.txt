@@ -1,0 +1,8 @@
+Sistema 1
+->Solução = 1.0000, 2.0000, 3.0000
+->determinante = -34.0000
+
+Sistema 2
+->Solução = -3.0000, 5.0000, 0.0000
+->determinante = -4.0000
+
